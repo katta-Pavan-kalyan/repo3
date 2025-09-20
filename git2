@@ -1,0 +1,8 @@
+public void main(stringargs[])
+class git extends gitname
+{
+  system.out.println("welcome to git hub");
+  system.out.println("create a file");
+  system.out.println("edit to jenkins");
+  system.out.println("welcome to jenkins");
+}
